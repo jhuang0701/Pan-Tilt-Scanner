@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"A2, A3";"Pololu_Breakout-16_15.2x20.3mm";2;"Pololu_Breakout_A4988";;;
+2;"C1, C2, C12, C13";"CP_Radial_D6.3mm_P2.50mm";4;"100µF";;;
+3;"C3, C4";"C_0805_2012Metric";2;"1µF";;;
+4;"C5, C6, C7, C10, C11, C14, C15";"C_0805_2012Metric";7;"100nF";;;
+5;"C8, C9";"C_0805_2012Metric";2;"20pF";;;
+6;"D1, D2";"D_SMA";2;"D_Schottky";;;
+7;"J1, J2";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02";;;
+8;"J3, J4, J6";"PinHeader_1x04_P2.54mm_Vertical";3;"Conn_01x04";;;
+9;"J5";"PinHeader_1x05_P2.54mm_Vertical";1;"Conn_01x05";;;
+10;"J7";"PinSocket_1x05_P2.54mm_Vertical";1;"Conn_01x05";;;
+11;"L1";"L_12x12mm_H8mm";1;"33µH";;;
+12;"R1, R2";"R_0805_2012Metric";2;"10k";;;
+13;"SW1";"SW_PUSH_6mm";1;"SW_Push";;;
+14;"U1";"TO-263-5_TabPin3";1;"LM2596S-5";;;
+15;"U2";"SOT-23-5";1;"AP2112K-3.3";;;
+16;"U3";"LQFP-48_7x7mm_P0.5mm";1;"STM32F103C8Tx";;;
+17;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"Crystal";;;
